@@ -10,10 +10,10 @@ Features:
 3. Practical Exercises: Three practicals showcasing different applications of generative AI in computer vision.
    
 Practicals:
-Practical 1: Computer Vision with Generativa AI
-Practical 2: Open Computer Vision (OpenCV) with Generativa AI
-Practical 3: Without Matplotlib Visualization
-Practical 4: Video Capturing using OpenCV
+- Practical 1: Computer Vision with Generativa AI
+- Practical 2: Open Computer Vision (OpenCV) with Generativa AI
+- Practical 3: Without Matplotlib Visualization
+- Practical 4: Video Capturing using OpenCV
 
 Key Technologies:
 1. Python: Programming language used for implementing AI models and computer vision algorithms.
